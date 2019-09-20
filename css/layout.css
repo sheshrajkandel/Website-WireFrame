@@ -1,0 +1,134 @@
+.main-wrapper {
+  height: 100%;
+  background: white;
+}
+.header {
+  height: 150px;
+  background: skyblue;
+}
+.header-top {
+  background-color: gray;
+  height: 70%;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.header-bottom {
+  background-color: gray;
+  margin-left: 50px;
+  margin-right: 50px;
+  height: 30%;
+}
+.header-top-logo-search {
+  float: left;
+  background-color: aliceblue;
+  width: 60%;
+  height: 100%;
+}
+.header-top-right {
+  float: right;
+  width: 40%;
+  height: 100%;
+  background-color: blue;
+}
+.header-top-logo {
+  float: left;
+  width: 30%;
+  height: 100%;
+  background-color: brown;
+}
+.header-top-search {
+  float: right;
+  width: 70%;
+  height: 100%;
+  background-color: green;
+}
+.header-top-search-box {
+  float: left;
+  width: 80%;
+  height: 100%;
+}
+.header-top-search-button {
+  float: right;
+  width: 20%;
+  height: 100%;
+  background-color: yellow;
+}
+.header-bottom-nav {
+  float: left;
+  width: 50%;
+  height: 100%;
+  background-color: blue;
+}
+.header-bottom-right {
+  background-color: lightblue;
+  width: 50%;
+  height: 100%;
+  float: right;
+}
+.body-wrapper {
+  height: 500px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.body-wrapper-left {
+  background-color: lightgreen;
+  float: left;
+  width: 80%;
+  height: 100%;
+}
+.body-wrapper-right-most {
+  background-color: lightpink;
+  float: right;
+  width: 20%;
+  height: 100%;
+}
+.body-wrapper-left-most {
+  background-color: lightcoral;
+  float: left;
+  width: 25%;
+  height: 100%;
+}
+.body-wrapper-mid {
+  background-color: lightsalmon;
+  float: right;
+  width: 75%;
+  height: 100%;
+}
+.body-wrapper-mid h1 {
+  width: 100%;
+  height: 50px;
+  background-color: black;
+}
+.footer {
+  height: 100px;
+  background-color: gray;
+}
+.footer-wrapper {
+  margin-left: 50px;
+  margin-right: 50px;
+  color: white;
+}
+.footer-nav {
+  float: left;
+  width: 75%;
+  height: 100%;
+}
+.footer-copyright {
+  float: right;
+  width: 25%;
+  height: 100%;
+  line-height: 100px;
+  text-align: right;
+}
+.footer-nav ul li {
+  list-style: none;
+  display: inline;
+  line-height: 100px;
+  padding-right: 25px;
+}
+.footer-nav ul li a {
+  color: white;
+  text-decoration: none;
+}
